@@ -6,3 +6,4 @@ Change 1
 I am interested in finance.
 
 This is a new feature!
+This is really a new feature!
